@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "title": "Concerts and Music Festivals",
+      "image": "https://i.ibb.co/bXnbGns/pexels-vishnu-r-nair-1105666.jpg",
+      "price": 5000,
+      "description": "From small local concerts to large-scale music festivals, we can help you plan and execute an unforgettable event that will have your guests dancing all night long."
+    },
+    {
+      "id": 2,
+      "title": "Theater and Performing Arts",
+      "image": "https://i.ibb.co/6XR0Zv7/istockphoto-1295114854-612x612.jpg",
+      "price": 1000,
+      "description": "Whether you're planning a Broadway-style production or a small community theater event, we can help you create a memorable experience for your audience."
+    },
+    {
+      "id": 3,
+      "title": "Film Screenings and Premieres",
+      "image": "https://i.ibb.co/LzNpntH/SL-121019-25870-14.jpg",
+      "price": 3000,
+      "description": "From indie film screenings to Hollywood premieres, we can help you plan and execute a successful event that will have your guests talking about it for weeks to come."
+    },
+    {
+      "id": 4,
+      "title": "Comedy Shows",
+      "image": "https://i.ibb.co/8zPWYCB/istockphoto-1316581169-612x612.jpg",
+      "price": 4000,
+      "description": "Laughter is the best medicine, and we can help you plan and execute a comedy show that will have your guests in stitches."
+    },
+    {
+      "id": 5,
+      "title": "Sports Events",
+      "image": "https://i.ibb.co/XS4WQ49/istockphoto-1355687160-170667a.webp",
+      "price": 10000,
+      "description": "From small local tournaments to large-scale sporting events, we can help you plan and execute a successful event that will have your guests cheering for their favorite teams."
+    },
+    {
+      "id": 6,
+      "title": "Magic Shows",
+      "image": "https://i.ibb.co/sbs4MJ3/gettyimages-493029486-612x612.jpg",
+      "price": 2000,
+      "description": "Add a touch of wonder and excitement to your event with a professional magic show. Whether you're hosting a corporate event, wedding, or private party, a magician can elevate the atmosphere and create lasting memories for everyone in attendance. "
+    }
+  ]
